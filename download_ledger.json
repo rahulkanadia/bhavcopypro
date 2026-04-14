@@ -11770,5 +11770,3119 @@
         "report_id": "bse_fo_bhav",
         "status": "FAILED",
         "path": ""
+    },
+    "2020-03-15_nse_cm_bhav": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_bhav_full": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_bhav_full",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_pr": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_deliv": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_short": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_var": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_volt": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_52w": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_appsec": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_mfvar": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_pe": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_sme": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_sme",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_cm_ma": {
+        "date": "2020-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-03-15_nse_fo_bhav": {
+        "date": "2020-03-15",
+        "report_id": "nse_fo_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_bhav": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_bhav",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\03\\cm15MAR2021bhav.csv.zip"
+    },
+    "2021-03-15_nse_cm_bhav_full": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_bhav_full",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_pr": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_deliv": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_short": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_var": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_volt": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_52w": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_appsec": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_mfvar": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_pe": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_sme": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_sme",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_cm_ma": {
+        "date": "2021-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-03-15_nse_fo_bhav": {
+        "date": "2021-03-15",
+        "report_id": "nse_fo_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_bhav": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_bhav",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\cm15MAR2022bhav.csv.zip"
+    },
+    "2022-03-15_nse_cm_bhav_full": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_bhav_full",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_pr": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_deliv": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_short": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_var": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_volt": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_52w": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_appsec": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_mfvar": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_pe": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_sme": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_sme",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_cm_ma": {
+        "date": "2022-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-03-15_nse_fo_bhav": {
+        "date": "2022-03-15",
+        "report_id": "nse_fo_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_bhav": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_bhav",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\cm15MAR2023bhav.csv.zip"
+    },
+    "2023-03-15_nse_cm_bhav_full": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_bhav_full",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_pr": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_deliv": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_short": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_var": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_volt": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_52w": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_appsec": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_mfvar": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_pe": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_sme": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_sme",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_cm_ma": {
+        "date": "2023-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-03-15_nse_fo_bhav": {
+        "date": "2023-03-15",
+        "report_id": "nse_fo_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_pr": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_deliv": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_short": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_var": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_volt": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_52w": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_appsec": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_mfvar": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_pe": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-15_nse_cm_ma": {
+        "date": "2024-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_bhav": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_bhav_full": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_bhav_full",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_pr": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_deliv": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_short": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_var": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_volt": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_52w": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_appsec": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_mfvar": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_pe": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_sme": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_sme",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_cm_ma": {
+        "date": "2025-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-15_nse_fo_bhav": {
+        "date": "2025-03-15",
+        "report_id": "nse_fo_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_bhav": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_bhav_full": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_bhav_full",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_pr": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_deliv": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_short": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_var": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_volt": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_52w": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_appsec": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_mfvar": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_pe": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_sme": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_sme",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_cm_ma": {
+        "date": "2026-03-15",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2026-03-15_nse_fo_bhav": {
+        "date": "2026-03-15",
+        "report_id": "nse_fo_bhav",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_pr": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_deliv": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_short": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_var": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_volt": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_52w": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_appsec": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_mfvar": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_pe": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_cm_ma": {
+        "date": "2020-01-03",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_pr": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_deliv": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_short": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_var": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_volt": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_52w": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_appsec": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_mfvar": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_pe": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-01-08_nse_cm_ma": {
+        "date": "2021-01-08",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_pr": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_deliv": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_short": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_var": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_volt": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_52w": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_appsec": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_mfvar": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_pe": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-01-07_nse_cm_ma": {
+        "date": "2022-01-07",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_pr": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_deliv": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_short": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_var": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_volt": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_52w": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_appsec": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_mfvar": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_pe": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2023-01-06_nse_cm_ma": {
+        "date": "2023-01-06",
+        "report_id": "nse_cm_ma",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_pr": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_pr",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_deliv": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_deliv",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_short": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_short",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_var": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_var",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_volt": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_volt",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_52w": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_52w",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_appsec": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_appsec",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_mfvar": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_mfvar",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-01-05_nse_cm_pe": {
+        "date": "2024-01-05",
+        "report_id": "nse_cm_pe",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-03_nse_master_archive": {
+        "date": "2020-01-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\01\\Reports-Archives-Multiple-03012020.zip"
+    },
+    "2021-01-08_nse_master_archive": {
+        "date": "2021-01-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\01\\Reports-Archives-Multiple-08012021.zip"
+    },
+    "2022-01-07_nse_master_archive": {
+        "date": "2022-01-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\01\\Reports-Archives-Multiple-07012022.zip"
+    },
+    "2023-01-06_nse_master_archive": {
+        "date": "2023-01-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\01\\Reports-Archives-Multiple-06012023.zip"
+    },
+    "2024-01-05_nse_master_archive": {
+        "date": "2024-01-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\01\\Reports-Archives-Multiple-05012024.zip"
+    },
+    "2024-08-09_nse_master_archive": {
+        "date": "2024-08-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\08\\Reports-Archives-Multiple-09082024.zip"
+    },
+    "2025-01-03_nse_master_archive": {
+        "date": "2025-01-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\01\\Reports-Archives-Multiple-03012025.zip"
+    },
+    "2026-01-02_nse_master_archive": {
+        "date": "2026-01-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\01\\Reports-Archives-Multiple-02012026.zip"
+    },
+    "2020-03-15_nse_master_archive": {
+        "date": "2020-03-15",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2022-08-15_nse_master_archive": {
+        "date": "2022-08-15",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2021-10-02_nse_master_archive": {
+        "date": "2021-10-02",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2020-01-10_nse_master_archive": {
+        "date": "2020-01-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\01\\Reports-Archives-Multiple-10012020.zip"
+    },
+    "2020-01-17_nse_master_archive": {
+        "date": "2020-01-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\01\\Reports-Archives-Multiple-17012020.zip"
+    },
+    "2020-01-24_nse_master_archive": {
+        "date": "2020-01-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\01\\Reports-Archives-Multiple-24012020.zip"
+    },
+    "2020-01-31_nse_master_archive": {
+        "date": "2020-01-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\01\\Reports-Archives-Multiple-31012020.zip"
+    },
+    "2020-02-07_nse_master_archive": {
+        "date": "2020-02-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\02\\Reports-Archives-Multiple-07022020.zip"
+    },
+    "2020-02-14_nse_master_archive": {
+        "date": "2020-02-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\02\\Reports-Archives-Multiple-14022020.zip"
+    },
+    "2020-02-21_nse_master_archive": {
+        "date": "2020-02-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\02\\Reports-Archives-Multiple-21022020.zip"
+    },
+    "2020-02-28_nse_master_archive": {
+        "date": "2020-02-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\02\\Reports-Archives-Multiple-28022020.zip"
+    },
+    "2020-03-06_nse_master_archive": {
+        "date": "2020-03-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\03\\Reports-Archives-Multiple-06032020.zip"
+    },
+    "2020-03-13_nse_master_archive": {
+        "date": "2020-03-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\03\\Reports-Archives-Multiple-13032020.zip"
+    },
+    "2020-03-20_nse_master_archive": {
+        "date": "2020-03-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\03\\Reports-Archives-Multiple-20032020.zip"
+    },
+    "2020-03-27_nse_master_archive": {
+        "date": "2020-03-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\03\\Reports-Archives-Multiple-27032020.zip"
+    },
+    "2020-04-03_nse_master_archive": {
+        "date": "2020-04-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-03042020.zip"
+    },
+    "2020-04-10_nse_master_archive": {
+        "date": "2020-04-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-10042020.zip"
+    },
+    "2020-04-17_nse_master_archive": {
+        "date": "2020-04-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-17042020.zip"
+    },
+    "2020-04-24_nse_master_archive": {
+        "date": "2020-04-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-24042020.zip"
+    },
+    "2020-05-01_nse_master_archive": {
+        "date": "2020-05-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\05\\Reports-Archives-Multiple-01052020.zip"
+    },
+    "2020-05-08_nse_master_archive": {
+        "date": "2020-05-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\05\\Reports-Archives-Multiple-08052020.zip"
+    },
+    "2020-05-15_nse_master_archive": {
+        "date": "2020-05-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\05\\Reports-Archives-Multiple-15052020.zip"
+    },
+    "2020-05-22_nse_master_archive": {
+        "date": "2020-05-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\05\\Reports-Archives-Multiple-22052020.zip"
+    },
+    "2020-05-29_nse_master_archive": {
+        "date": "2020-05-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\05\\Reports-Archives-Multiple-29052020.zip"
+    },
+    "2020-06-05_nse_master_archive": {
+        "date": "2020-06-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\06\\Reports-Archives-Multiple-05062020.zip"
+    },
+    "2020-06-12_nse_master_archive": {
+        "date": "2020-06-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\06\\Reports-Archives-Multiple-12062020.zip"
+    },
+    "2020-06-19_nse_master_archive": {
+        "date": "2020-06-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\06\\Reports-Archives-Multiple-19062020.zip"
+    },
+    "2020-06-26_nse_master_archive": {
+        "date": "2020-06-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\06\\Reports-Archives-Multiple-26062020.zip"
+    },
+    "2020-07-03_nse_master_archive": {
+        "date": "2020-07-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\07\\Reports-Archives-Multiple-03072020.zip"
+    },
+    "2020-07-10_nse_master_archive": {
+        "date": "2020-07-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\07\\Reports-Archives-Multiple-10072020.zip"
+    },
+    "2020-07-17_nse_master_archive": {
+        "date": "2020-07-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\07\\Reports-Archives-Multiple-17072020.zip"
+    },
+    "2020-07-24_nse_master_archive": {
+        "date": "2020-07-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\07\\Reports-Archives-Multiple-24072020.zip"
+    },
+    "2020-07-31_nse_master_archive": {
+        "date": "2020-07-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\07\\Reports-Archives-Multiple-31072020.zip"
+    },
+    "2020-08-07_nse_master_archive": {
+        "date": "2020-08-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\08\\Reports-Archives-Multiple-07082020.zip"
+    },
+    "2020-08-14_nse_master_archive": {
+        "date": "2020-08-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\08\\Reports-Archives-Multiple-14082020.zip"
+    },
+    "2020-08-21_nse_master_archive": {
+        "date": "2020-08-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\08\\Reports-Archives-Multiple-21082020.zip"
+    },
+    "2020-08-28_nse_master_archive": {
+        "date": "2020-08-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\08\\Reports-Archives-Multiple-28082020.zip"
+    },
+    "2020-09-04_nse_master_archive": {
+        "date": "2020-09-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\09\\Reports-Archives-Multiple-04092020.zip"
+    },
+    "2020-09-11_nse_master_archive": {
+        "date": "2020-09-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\09\\Reports-Archives-Multiple-11092020.zip"
+    },
+    "2020-09-18_nse_master_archive": {
+        "date": "2020-09-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\09\\Reports-Archives-Multiple-18092020.zip"
+    },
+    "2020-09-25_nse_master_archive": {
+        "date": "2020-09-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\09\\Reports-Archives-Multiple-25092020.zip"
+    },
+    "2020-10-02_nse_master_archive": {
+        "date": "2020-10-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\10\\Reports-Archives-Multiple-02102020.zip"
+    },
+    "2020-10-09_nse_master_archive": {
+        "date": "2020-10-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\10\\Reports-Archives-Multiple-09102020.zip"
+    },
+    "2020-10-16_nse_master_archive": {
+        "date": "2020-10-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\10\\Reports-Archives-Multiple-16102020.zip"
+    },
+    "2020-10-23_nse_master_archive": {
+        "date": "2020-10-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\10\\Reports-Archives-Multiple-23102020.zip"
+    },
+    "2020-10-30_nse_master_archive": {
+        "date": "2020-10-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\10\\Reports-Archives-Multiple-30102020.zip"
+    },
+    "2020-11-06_nse_master_archive": {
+        "date": "2020-11-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\11\\Reports-Archives-Multiple-06112020.zip"
+    },
+    "2020-11-13_nse_master_archive": {
+        "date": "2020-11-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\11\\Reports-Archives-Multiple-13112020.zip"
+    },
+    "2020-11-20_nse_master_archive": {
+        "date": "2020-11-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\11\\Reports-Archives-Multiple-20112020.zip"
+    },
+    "2020-11-27_nse_master_archive": {
+        "date": "2020-11-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\11\\Reports-Archives-Multiple-27112020.zip"
+    },
+    "2020-12-04_nse_master_archive": {
+        "date": "2020-12-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\12\\Reports-Archives-Multiple-04122020.zip"
+    },
+    "2020-12-11_nse_master_archive": {
+        "date": "2020-12-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\12\\Reports-Archives-Multiple-11122020.zip"
+    },
+    "2020-12-18_nse_master_archive": {
+        "date": "2020-12-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\12\\Reports-Archives-Multiple-18122020.zip"
+    },
+    "2020-12-25_nse_master_archive": {
+        "date": "2020-12-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\12\\Reports-Archives-Multiple-25122020.zip"
+    },
+    "2021-01-01_nse_master_archive": {
+        "date": "2021-01-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\01\\Reports-Archives-Multiple-01012021.zip"
+    },
+    "2021-01-15_nse_master_archive": {
+        "date": "2021-01-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\01\\Reports-Archives-Multiple-15012021.zip"
+    },
+    "2021-01-22_nse_master_archive": {
+        "date": "2021-01-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\01\\Reports-Archives-Multiple-22012021.zip"
+    },
+    "2021-01-29_nse_master_archive": {
+        "date": "2021-01-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\01\\Reports-Archives-Multiple-29012021.zip"
+    },
+    "2021-02-05_nse_master_archive": {
+        "date": "2021-02-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\02\\Reports-Archives-Multiple-05022021.zip"
+    },
+    "2021-02-12_nse_master_archive": {
+        "date": "2021-02-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\02\\Reports-Archives-Multiple-12022021.zip"
+    },
+    "2021-02-19_nse_master_archive": {
+        "date": "2021-02-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\02\\Reports-Archives-Multiple-19022021.zip"
+    },
+    "2021-02-26_nse_master_archive": {
+        "date": "2021-02-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\02\\Reports-Archives-Multiple-26022021.zip"
+    },
+    "2021-03-05_nse_master_archive": {
+        "date": "2021-03-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\03\\Reports-Archives-Multiple-05032021.zip"
+    },
+    "2021-03-12_nse_master_archive": {
+        "date": "2021-03-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\03\\Reports-Archives-Multiple-12032021.zip"
+    },
+    "2021-03-19_nse_master_archive": {
+        "date": "2021-03-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\03\\Reports-Archives-Multiple-19032021.zip"
+    },
+    "2021-03-26_nse_master_archive": {
+        "date": "2021-03-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\03\\Reports-Archives-Multiple-26032021.zip"
+    },
+    "2021-04-02_nse_master_archive": {
+        "date": "2021-04-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-02042021.zip"
+    },
+    "2021-04-09_nse_master_archive": {
+        "date": "2021-04-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-09042021.zip"
+    },
+    "2021-04-16_nse_master_archive": {
+        "date": "2021-04-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-16042021.zip"
+    },
+    "2021-04-23_nse_master_archive": {
+        "date": "2021-04-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-23042021.zip"
+    },
+    "2021-04-30_nse_master_archive": {
+        "date": "2021-04-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-30042021.zip"
+    },
+    "2021-05-07_nse_master_archive": {
+        "date": "2021-05-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\05\\Reports-Archives-Multiple-07052021.zip"
+    },
+    "2021-05-14_nse_master_archive": {
+        "date": "2021-05-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\05\\Reports-Archives-Multiple-14052021.zip"
+    },
+    "2021-05-21_nse_master_archive": {
+        "date": "2021-05-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\05\\Reports-Archives-Multiple-21052021.zip"
+    },
+    "2021-05-28_nse_master_archive": {
+        "date": "2021-05-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\05\\Reports-Archives-Multiple-28052021.zip"
+    },
+    "2021-06-04_nse_master_archive": {
+        "date": "2021-06-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\06\\Reports-Archives-Multiple-04062021.zip"
+    },
+    "2021-06-11_nse_master_archive": {
+        "date": "2021-06-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\06\\Reports-Archives-Multiple-11062021.zip"
+    },
+    "2021-06-18_nse_master_archive": {
+        "date": "2021-06-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\06\\Reports-Archives-Multiple-18062021.zip"
+    },
+    "2021-06-25_nse_master_archive": {
+        "date": "2021-06-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\06\\Reports-Archives-Multiple-25062021.zip"
+    },
+    "2021-07-02_nse_master_archive": {
+        "date": "2021-07-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\07\\Reports-Archives-Multiple-02072021.zip"
+    },
+    "2021-07-09_nse_master_archive": {
+        "date": "2021-07-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\07\\Reports-Archives-Multiple-09072021.zip"
+    },
+    "2021-07-16_nse_master_archive": {
+        "date": "2021-07-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\07\\Reports-Archives-Multiple-16072021.zip"
+    },
+    "2021-07-23_nse_master_archive": {
+        "date": "2021-07-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\07\\Reports-Archives-Multiple-23072021.zip"
+    },
+    "2021-07-30_nse_master_archive": {
+        "date": "2021-07-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\07\\Reports-Archives-Multiple-30072021.zip"
+    },
+    "2021-08-06_nse_master_archive": {
+        "date": "2021-08-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\08\\Reports-Archives-Multiple-06082021.zip"
+    },
+    "2021-08-13_nse_master_archive": {
+        "date": "2021-08-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\08\\Reports-Archives-Multiple-13082021.zip"
+    },
+    "2021-08-20_nse_master_archive": {
+        "date": "2021-08-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\08\\Reports-Archives-Multiple-20082021.zip"
+    },
+    "2021-08-27_nse_master_archive": {
+        "date": "2021-08-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\08\\Reports-Archives-Multiple-27082021.zip"
+    },
+    "2021-09-03_nse_master_archive": {
+        "date": "2021-09-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\09\\Reports-Archives-Multiple-03092021.zip"
+    },
+    "2021-09-10_nse_master_archive": {
+        "date": "2021-09-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\09\\Reports-Archives-Multiple-10092021.zip"
+    },
+    "2021-09-17_nse_master_archive": {
+        "date": "2021-09-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\09\\Reports-Archives-Multiple-17092021.zip"
+    },
+    "2021-09-24_nse_master_archive": {
+        "date": "2021-09-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\09\\Reports-Archives-Multiple-24092021.zip"
+    },
+    "2021-10-01_nse_master_archive": {
+        "date": "2021-10-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-01102021.zip"
+    },
+    "2021-10-08_nse_master_archive": {
+        "date": "2021-10-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-08102021.zip"
+    },
+    "2021-10-15_nse_master_archive": {
+        "date": "2021-10-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-15102021.zip"
+    },
+    "2021-10-22_nse_master_archive": {
+        "date": "2021-10-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-22102021.zip"
+    },
+    "2021-10-29_nse_master_archive": {
+        "date": "2021-10-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-29102021.zip"
+    },
+    "2021-11-05_nse_master_archive": {
+        "date": "2021-11-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-05112021.zip"
+    },
+    "2021-11-12_nse_master_archive": {
+        "date": "2021-11-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-12112021.zip"
+    },
+    "2021-11-19_nse_master_archive": {
+        "date": "2021-11-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-19112021.zip"
+    },
+    "2021-11-26_nse_master_archive": {
+        "date": "2021-11-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-26112021.zip"
+    },
+    "2021-12-03_nse_master_archive": {
+        "date": "2021-12-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\12\\Reports-Archives-Multiple-03122021.zip"
+    },
+    "2021-12-10_nse_master_archive": {
+        "date": "2021-12-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\12\\Reports-Archives-Multiple-10122021.zip"
+    },
+    "2021-12-17_nse_master_archive": {
+        "date": "2021-12-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\12\\Reports-Archives-Multiple-17122021.zip"
+    },
+    "2021-12-24_nse_master_archive": {
+        "date": "2021-12-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\12\\Reports-Archives-Multiple-24122021.zip"
+    },
+    "2021-12-31_nse_master_archive": {
+        "date": "2021-12-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\12\\Reports-Archives-Multiple-31122021.zip"
+    },
+    "2022-01-14_nse_master_archive": {
+        "date": "2022-01-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\01\\Reports-Archives-Multiple-14012022.zip"
+    },
+    "2022-01-21_nse_master_archive": {
+        "date": "2022-01-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\01\\Reports-Archives-Multiple-21012022.zip"
+    },
+    "2022-01-28_nse_master_archive": {
+        "date": "2022-01-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\01\\Reports-Archives-Multiple-28012022.zip"
+    },
+    "2022-02-04_nse_master_archive": {
+        "date": "2022-02-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\02\\Reports-Archives-Multiple-04022022.zip"
+    },
+    "2022-02-11_nse_master_archive": {
+        "date": "2022-02-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\02\\Reports-Archives-Multiple-11022022.zip"
+    },
+    "2022-02-18_nse_master_archive": {
+        "date": "2022-02-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\02\\Reports-Archives-Multiple-18022022.zip"
+    },
+    "2022-02-25_nse_master_archive": {
+        "date": "2022-02-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\02\\Reports-Archives-Multiple-25022022.zip"
+    },
+    "2022-03-04_nse_master_archive": {
+        "date": "2022-03-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\Reports-Archives-Multiple-04032022.zip"
+    },
+    "2022-03-11_nse_master_archive": {
+        "date": "2022-03-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\Reports-Archives-Multiple-11032022.zip"
+    },
+    "2022-03-18_nse_master_archive": {
+        "date": "2022-03-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\Reports-Archives-Multiple-18032022.zip"
+    },
+    "2022-03-25_nse_master_archive": {
+        "date": "2022-03-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\Reports-Archives-Multiple-25032022.zip"
+    },
+    "2022-04-01_nse_master_archive": {
+        "date": "2022-04-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-01042022.zip"
+    },
+    "2022-04-08_nse_master_archive": {
+        "date": "2022-04-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-08042022.zip"
+    },
+    "2022-04-15_nse_master_archive": {
+        "date": "2022-04-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-15042022.zip"
+    },
+    "2022-04-22_nse_master_archive": {
+        "date": "2022-04-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-22042022.zip"
+    },
+    "2022-04-29_nse_master_archive": {
+        "date": "2022-04-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-29042022.zip"
+    },
+    "2022-05-06_nse_master_archive": {
+        "date": "2022-05-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\05\\Reports-Archives-Multiple-06052022.zip"
+    },
+    "2022-05-13_nse_master_archive": {
+        "date": "2022-05-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\05\\Reports-Archives-Multiple-13052022.zip"
+    },
+    "2022-05-20_nse_master_archive": {
+        "date": "2022-05-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\05\\Reports-Archives-Multiple-20052022.zip"
+    },
+    "2022-05-27_nse_master_archive": {
+        "date": "2022-05-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\05\\Reports-Archives-Multiple-27052022.zip"
+    },
+    "2022-06-03_nse_master_archive": {
+        "date": "2022-06-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\06\\Reports-Archives-Multiple-03062022.zip"
+    },
+    "2022-06-10_nse_master_archive": {
+        "date": "2022-06-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\06\\Reports-Archives-Multiple-10062022.zip"
+    },
+    "2022-06-17_nse_master_archive": {
+        "date": "2022-06-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\06\\Reports-Archives-Multiple-17062022.zip"
+    },
+    "2022-06-24_nse_master_archive": {
+        "date": "2022-06-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\06\\Reports-Archives-Multiple-24062022.zip"
+    },
+    "2022-07-01_nse_master_archive": {
+        "date": "2022-07-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\07\\Reports-Archives-Multiple-01072022.zip"
+    },
+    "2022-07-08_nse_master_archive": {
+        "date": "2022-07-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\07\\Reports-Archives-Multiple-08072022.zip"
+    },
+    "2022-07-15_nse_master_archive": {
+        "date": "2022-07-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\07\\Reports-Archives-Multiple-15072022.zip"
+    },
+    "2022-07-22_nse_master_archive": {
+        "date": "2022-07-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\07\\Reports-Archives-Multiple-22072022.zip"
+    },
+    "2022-07-29_nse_master_archive": {
+        "date": "2022-07-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\07\\Reports-Archives-Multiple-29072022.zip"
+    },
+    "2022-08-05_nse_master_archive": {
+        "date": "2022-08-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\08\\Reports-Archives-Multiple-05082022.zip"
+    },
+    "2022-08-12_nse_master_archive": {
+        "date": "2022-08-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\08\\Reports-Archives-Multiple-12082022.zip"
+    },
+    "2022-08-19_nse_master_archive": {
+        "date": "2022-08-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\08\\Reports-Archives-Multiple-19082022.zip"
+    },
+    "2022-08-26_nse_master_archive": {
+        "date": "2022-08-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\08\\Reports-Archives-Multiple-26082022.zip"
+    },
+    "2022-09-02_nse_master_archive": {
+        "date": "2022-09-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\09\\Reports-Archives-Multiple-02092022.zip"
+    },
+    "2022-09-09_nse_master_archive": {
+        "date": "2022-09-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\09\\Reports-Archives-Multiple-09092022.zip"
+    },
+    "2022-09-16_nse_master_archive": {
+        "date": "2022-09-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\09\\Reports-Archives-Multiple-16092022.zip"
+    },
+    "2022-09-23_nse_master_archive": {
+        "date": "2022-09-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\09\\Reports-Archives-Multiple-23092022.zip"
+    },
+    "2022-09-30_nse_master_archive": {
+        "date": "2022-09-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\09\\Reports-Archives-Multiple-30092022.zip"
+    },
+    "2022-10-07_nse_master_archive": {
+        "date": "2022-10-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\10\\Reports-Archives-Multiple-07102022.zip"
+    },
+    "2022-10-14_nse_master_archive": {
+        "date": "2022-10-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\10\\Reports-Archives-Multiple-14102022.zip"
+    },
+    "2022-10-21_nse_master_archive": {
+        "date": "2022-10-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\10\\Reports-Archives-Multiple-21102022.zip"
+    },
+    "2022-10-28_nse_master_archive": {
+        "date": "2022-10-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\10\\Reports-Archives-Multiple-28102022.zip"
+    },
+    "2022-11-04_nse_master_archive": {
+        "date": "2022-11-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\11\\Reports-Archives-Multiple-04112022.zip"
+    },
+    "2022-11-11_nse_master_archive": {
+        "date": "2022-11-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\11\\Reports-Archives-Multiple-11112022.zip"
+    },
+    "2022-11-18_nse_master_archive": {
+        "date": "2022-11-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\11\\Reports-Archives-Multiple-18112022.zip"
+    },
+    "2022-11-25_nse_master_archive": {
+        "date": "2022-11-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\11\\Reports-Archives-Multiple-25112022.zip"
+    },
+    "2022-12-02_nse_master_archive": {
+        "date": "2022-12-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\12\\Reports-Archives-Multiple-02122022.zip"
+    },
+    "2022-12-09_nse_master_archive": {
+        "date": "2022-12-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\12\\Reports-Archives-Multiple-09122022.zip"
+    },
+    "2022-12-16_nse_master_archive": {
+        "date": "2022-12-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\12\\Reports-Archives-Multiple-16122022.zip"
+    },
+    "2022-12-23_nse_master_archive": {
+        "date": "2022-12-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\12\\Reports-Archives-Multiple-23122022.zip"
+    },
+    "2022-12-30_nse_master_archive": {
+        "date": "2022-12-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\12\\Reports-Archives-Multiple-30122022.zip"
+    },
+    "2023-01-13_nse_master_archive": {
+        "date": "2023-01-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\01\\Reports-Archives-Multiple-13012023.zip"
+    },
+    "2023-01-20_nse_master_archive": {
+        "date": "2023-01-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\01\\Reports-Archives-Multiple-20012023.zip"
+    },
+    "2023-01-27_nse_master_archive": {
+        "date": "2023-01-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\01\\Reports-Archives-Multiple-27012023.zip"
+    },
+    "2023-02-03_nse_master_archive": {
+        "date": "2023-02-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\02\\Reports-Archives-Multiple-03022023.zip"
+    },
+    "2023-02-10_nse_master_archive": {
+        "date": "2023-02-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\02\\Reports-Archives-Multiple-10022023.zip"
+    },
+    "2023-02-17_nse_master_archive": {
+        "date": "2023-02-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\02\\Reports-Archives-Multiple-17022023.zip"
+    },
+    "2023-02-24_nse_master_archive": {
+        "date": "2023-02-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\02\\Reports-Archives-Multiple-24022023.zip"
+    },
+    "2023-03-03_nse_master_archive": {
+        "date": "2023-03-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\Reports-Archives-Multiple-03032023.zip"
+    },
+    "2023-03-10_nse_master_archive": {
+        "date": "2023-03-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\Reports-Archives-Multiple-10032023.zip"
+    },
+    "2023-03-17_nse_master_archive": {
+        "date": "2023-03-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\Reports-Archives-Multiple-17032023.zip"
+    },
+    "2023-03-24_nse_master_archive": {
+        "date": "2023-03-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\Reports-Archives-Multiple-24032023.zip"
+    },
+    "2023-03-31_nse_master_archive": {
+        "date": "2023-03-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\Reports-Archives-Multiple-31032023.zip"
+    },
+    "2023-04-07_nse_master_archive": {
+        "date": "2023-04-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\04\\Reports-Archives-Multiple-07042023.zip"
+    },
+    "2023-04-14_nse_master_archive": {
+        "date": "2023-04-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\04\\Reports-Archives-Multiple-14042023.zip"
+    },
+    "2023-04-21_nse_master_archive": {
+        "date": "2023-04-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\04\\Reports-Archives-Multiple-21042023.zip"
+    },
+    "2023-04-28_nse_master_archive": {
+        "date": "2023-04-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\04\\Reports-Archives-Multiple-28042023.zip"
+    },
+    "2023-05-05_nse_master_archive": {
+        "date": "2023-05-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\05\\Reports-Archives-Multiple-05052023.zip"
+    },
+    "2023-05-12_nse_master_archive": {
+        "date": "2023-05-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\05\\Reports-Archives-Multiple-12052023.zip"
+    },
+    "2023-05-19_nse_master_archive": {
+        "date": "2023-05-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\05\\Reports-Archives-Multiple-19052023.zip"
+    },
+    "2023-05-26_nse_master_archive": {
+        "date": "2023-05-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\05\\Reports-Archives-Multiple-26052023.zip"
+    },
+    "2023-06-02_nse_master_archive": {
+        "date": "2023-06-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\06\\Reports-Archives-Multiple-02062023.zip"
+    },
+    "2023-06-09_nse_master_archive": {
+        "date": "2023-06-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\06\\Reports-Archives-Multiple-09062023.zip"
+    },
+    "2023-06-16_nse_master_archive": {
+        "date": "2023-06-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\06\\Reports-Archives-Multiple-16062023.zip"
+    },
+    "2023-06-23_nse_master_archive": {
+        "date": "2023-06-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\06\\Reports-Archives-Multiple-23062023.zip"
+    },
+    "2023-06-30_nse_master_archive": {
+        "date": "2023-06-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\06\\Reports-Archives-Multiple-30062023.zip"
+    },
+    "2023-07-07_nse_master_archive": {
+        "date": "2023-07-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\07\\Reports-Archives-Multiple-07072023.zip"
+    },
+    "2023-07-14_nse_master_archive": {
+        "date": "2023-07-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\07\\Reports-Archives-Multiple-14072023.zip"
+    },
+    "2023-07-21_nse_master_archive": {
+        "date": "2023-07-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\07\\Reports-Archives-Multiple-21072023.zip"
+    },
+    "2023-07-28_nse_master_archive": {
+        "date": "2023-07-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\07\\Reports-Archives-Multiple-28072023.zip"
+    },
+    "2023-08-04_nse_master_archive": {
+        "date": "2023-08-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\08\\Reports-Archives-Multiple-04082023.zip"
+    },
+    "2023-08-11_nse_master_archive": {
+        "date": "2023-08-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\08\\Reports-Archives-Multiple-11082023.zip"
+    },
+    "2023-08-18_nse_master_archive": {
+        "date": "2023-08-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\08\\Reports-Archives-Multiple-18082023.zip"
+    },
+    "2023-08-25_nse_master_archive": {
+        "date": "2023-08-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\08\\Reports-Archives-Multiple-25082023.zip"
+    },
+    "2023-09-01_nse_master_archive": {
+        "date": "2023-09-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\09\\Reports-Archives-Multiple-01092023.zip"
+    },
+    "2023-09-08_nse_master_archive": {
+        "date": "2023-09-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\09\\Reports-Archives-Multiple-08092023.zip"
+    },
+    "2023-09-15_nse_master_archive": {
+        "date": "2023-09-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\09\\Reports-Archives-Multiple-15092023.zip"
+    },
+    "2023-09-22_nse_master_archive": {
+        "date": "2023-09-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\09\\Reports-Archives-Multiple-22092023.zip"
+    },
+    "2023-09-29_nse_master_archive": {
+        "date": "2023-09-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\09\\Reports-Archives-Multiple-29092023.zip"
+    },
+    "2023-10-06_nse_master_archive": {
+        "date": "2023-10-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\10\\Reports-Archives-Multiple-06102023.zip"
+    },
+    "2023-10-13_nse_master_archive": {
+        "date": "2023-10-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\10\\Reports-Archives-Multiple-13102023.zip"
+    },
+    "2023-10-20_nse_master_archive": {
+        "date": "2023-10-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\10\\Reports-Archives-Multiple-20102023.zip"
+    },
+    "2023-10-27_nse_master_archive": {
+        "date": "2023-10-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\10\\Reports-Archives-Multiple-27102023.zip"
+    },
+    "2023-11-03_nse_master_archive": {
+        "date": "2023-11-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\11\\Reports-Archives-Multiple-03112023.zip"
+    },
+    "2023-11-10_nse_master_archive": {
+        "date": "2023-11-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\11\\Reports-Archives-Multiple-10112023.zip"
+    },
+    "2023-11-17_nse_master_archive": {
+        "date": "2023-11-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\11\\Reports-Archives-Multiple-17112023.zip"
+    },
+    "2023-11-24_nse_master_archive": {
+        "date": "2023-11-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\11\\Reports-Archives-Multiple-24112023.zip"
+    },
+    "2023-12-01_nse_master_archive": {
+        "date": "2023-12-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\12\\Reports-Archives-Multiple-01122023.zip"
+    },
+    "2023-12-08_nse_master_archive": {
+        "date": "2023-12-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\12\\Reports-Archives-Multiple-08122023.zip"
+    },
+    "2023-12-15_nse_master_archive": {
+        "date": "2023-12-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\12\\Reports-Archives-Multiple-15122023.zip"
+    },
+    "2023-12-22_nse_master_archive": {
+        "date": "2023-12-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\12\\Reports-Archives-Multiple-22122023.zip"
+    },
+    "2023-12-29_nse_master_archive": {
+        "date": "2023-12-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\12\\Reports-Archives-Multiple-29122023.zip"
+    },
+    "2024-01-12_nse_master_archive": {
+        "date": "2024-01-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\01\\Reports-Archives-Multiple-12012024.zip"
+    },
+    "2024-01-19_nse_master_archive": {
+        "date": "2024-01-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\01\\Reports-Archives-Multiple-19012024.zip"
+    },
+    "2024-01-26_nse_master_archive": {
+        "date": "2024-01-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\01\\Reports-Archives-Multiple-26012024.zip"
+    },
+    "2024-02-02_nse_master_archive": {
+        "date": "2024-02-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\02\\Reports-Archives-Multiple-02022024.zip"
+    },
+    "2024-02-09_nse_master_archive": {
+        "date": "2024-02-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\02\\Reports-Archives-Multiple-09022024.zip"
+    },
+    "2024-02-16_nse_master_archive": {
+        "date": "2024-02-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\02\\Reports-Archives-Multiple-16022024.zip"
+    },
+    "2024-02-23_nse_master_archive": {
+        "date": "2024-02-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\02\\Reports-Archives-Multiple-23022024.zip"
+    },
+    "2024-03-01_nse_master_archive": {
+        "date": "2024-03-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\03\\Reports-Archives-Multiple-01032024.zip"
+    },
+    "2024-03-08_nse_master_archive": {
+        "date": "2024-03-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\03\\Reports-Archives-Multiple-08032024.zip"
+    },
+    "2024-03-15_nse_master_archive": {
+        "date": "2024-03-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\03\\Reports-Archives-Multiple-15032024.zip"
+    },
+    "2024-03-22_nse_master_archive": {
+        "date": "2024-03-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\03\\Reports-Archives-Multiple-22032024.zip"
+    },
+    "2024-03-29_nse_master_archive": {
+        "date": "2024-03-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\03\\Reports-Archives-Multiple-29032024.zip"
+    },
+    "2024-04-05_nse_master_archive": {
+        "date": "2024-04-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\04\\Reports-Archives-Multiple-05042024.zip"
+    },
+    "2024-04-12_nse_master_archive": {
+        "date": "2024-04-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\04\\Reports-Archives-Multiple-12042024.zip"
+    },
+    "2024-04-19_nse_master_archive": {
+        "date": "2024-04-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\04\\Reports-Archives-Multiple-19042024.zip"
+    },
+    "2024-04-26_nse_master_archive": {
+        "date": "2024-04-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\04\\Reports-Archives-Multiple-26042024.zip"
+    },
+    "2024-05-03_nse_master_archive": {
+        "date": "2024-05-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\05\\Reports-Archives-Multiple-03052024.zip"
+    },
+    "2024-05-10_nse_master_archive": {
+        "date": "2024-05-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\05\\Reports-Archives-Multiple-10052024.zip"
+    },
+    "2024-05-17_nse_master_archive": {
+        "date": "2024-05-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\05\\Reports-Archives-Multiple-17052024.zip"
+    },
+    "2024-05-24_nse_master_archive": {
+        "date": "2024-05-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\05\\Reports-Archives-Multiple-24052024.zip"
+    },
+    "2024-05-31_nse_master_archive": {
+        "date": "2024-05-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\05\\Reports-Archives-Multiple-31052024.zip"
+    },
+    "2024-06-07_nse_master_archive": {
+        "date": "2024-06-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\06\\Reports-Archives-Multiple-07062024.zip"
+    },
+    "2024-06-14_nse_master_archive": {
+        "date": "2024-06-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\06\\Reports-Archives-Multiple-14062024.zip"
+    },
+    "2024-06-21_nse_master_archive": {
+        "date": "2024-06-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\06\\Reports-Archives-Multiple-21062024.zip"
+    },
+    "2024-06-28_nse_master_archive": {
+        "date": "2024-06-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\06\\Reports-Archives-Multiple-28062024.zip"
+    },
+    "2024-07-05_nse_master_archive": {
+        "date": "2024-07-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\07\\Reports-Archives-Multiple-05072024.zip"
+    },
+    "2024-07-12_nse_master_archive": {
+        "date": "2024-07-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\07\\Reports-Archives-Multiple-12072024.zip"
+    },
+    "2024-07-19_nse_master_archive": {
+        "date": "2024-07-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\07\\Reports-Archives-Multiple-19072024.zip"
+    },
+    "2024-07-26_nse_master_archive": {
+        "date": "2024-07-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\07\\Reports-Archives-Multiple-26072024.zip"
+    },
+    "2024-08-02_nse_master_archive": {
+        "date": "2024-08-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\08\\Reports-Archives-Multiple-02082024.zip"
+    },
+    "2024-08-16_nse_master_archive": {
+        "date": "2024-08-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\08\\Reports-Archives-Multiple-16082024.zip"
+    },
+    "2024-08-23_nse_master_archive": {
+        "date": "2024-08-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\08\\Reports-Archives-Multiple-23082024.zip"
+    },
+    "2024-08-30_nse_master_archive": {
+        "date": "2024-08-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\08\\Reports-Archives-Multiple-30082024.zip"
+    },
+    "2024-09-06_nse_master_archive": {
+        "date": "2024-09-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\09\\Reports-Archives-Multiple-06092024.zip"
+    },
+    "2024-09-13_nse_master_archive": {
+        "date": "2024-09-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\09\\Reports-Archives-Multiple-13092024.zip"
+    },
+    "2024-09-20_nse_master_archive": {
+        "date": "2024-09-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\09\\Reports-Archives-Multiple-20092024.zip"
+    },
+    "2024-09-27_nse_master_archive": {
+        "date": "2024-09-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\09\\Reports-Archives-Multiple-27092024.zip"
+    },
+    "2024-10-04_nse_master_archive": {
+        "date": "2024-10-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\10\\Reports-Archives-Multiple-04102024.zip"
+    },
+    "2024-10-11_nse_master_archive": {
+        "date": "2024-10-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\10\\Reports-Archives-Multiple-11102024.zip"
+    },
+    "2024-10-18_nse_master_archive": {
+        "date": "2024-10-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\10\\Reports-Archives-Multiple-18102024.zip"
+    },
+    "2024-10-25_nse_master_archive": {
+        "date": "2024-10-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\10\\Reports-Archives-Multiple-25102024.zip"
+    },
+    "2024-11-01_nse_master_archive": {
+        "date": "2024-11-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-01112024.zip"
+    },
+    "2024-11-08_nse_master_archive": {
+        "date": "2024-11-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-08112024.zip"
+    },
+    "2024-11-15_nse_master_archive": {
+        "date": "2024-11-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-15112024.zip"
+    },
+    "2024-11-22_nse_master_archive": {
+        "date": "2024-11-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-22112024.zip"
+    },
+    "2024-11-29_nse_master_archive": {
+        "date": "2024-11-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-29112024.zip"
+    },
+    "2024-12-06_nse_master_archive": {
+        "date": "2024-12-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\12\\Reports-Archives-Multiple-06122024.zip"
+    },
+    "2024-12-13_nse_master_archive": {
+        "date": "2024-12-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\12\\Reports-Archives-Multiple-13122024.zip"
+    },
+    "2024-12-20_nse_master_archive": {
+        "date": "2024-12-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\12\\Reports-Archives-Multiple-20122024.zip"
+    },
+    "2024-12-27_nse_master_archive": {
+        "date": "2024-12-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\12\\Reports-Archives-Multiple-27122024.zip"
+    },
+    "2025-01-10_nse_master_archive": {
+        "date": "2025-01-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\01\\Reports-Archives-Multiple-10012025.zip"
+    },
+    "2025-01-17_nse_master_archive": {
+        "date": "2025-01-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\01\\Reports-Archives-Multiple-17012025.zip"
+    },
+    "2025-01-24_nse_master_archive": {
+        "date": "2025-01-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\01\\Reports-Archives-Multiple-24012025.zip"
+    },
+    "2025-01-31_nse_master_archive": {
+        "date": "2025-01-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\01\\Reports-Archives-Multiple-31012025.zip"
+    },
+    "2025-02-07_nse_master_archive": {
+        "date": "2025-02-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\02\\Reports-Archives-Multiple-07022025.zip"
+    },
+    "2025-02-14_nse_master_archive": {
+        "date": "2025-02-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\02\\Reports-Archives-Multiple-14022025.zip"
+    },
+    "2025-02-21_nse_master_archive": {
+        "date": "2025-02-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\02\\Reports-Archives-Multiple-21022025.zip"
+    },
+    "2025-02-28_nse_master_archive": {
+        "date": "2025-02-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\02\\Reports-Archives-Multiple-28022025.zip"
+    },
+    "2025-03-07_nse_master_archive": {
+        "date": "2025-03-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\03\\Reports-Archives-Multiple-07032025.zip"
+    },
+    "2025-03-14_nse_master_archive": {
+        "date": "2025-03-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\03\\Reports-Archives-Multiple-14032025.zip"
+    },
+    "2025-03-21_nse_master_archive": {
+        "date": "2025-03-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\03\\Reports-Archives-Multiple-21032025.zip"
+    },
+    "2025-03-28_nse_master_archive": {
+        "date": "2025-03-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\03\\Reports-Archives-Multiple-28032025.zip"
+    },
+    "2025-04-04_nse_master_archive": {
+        "date": "2025-04-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\04\\Reports-Archives-Multiple-04042025.zip"
+    },
+    "2025-04-11_nse_master_archive": {
+        "date": "2025-04-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\04\\Reports-Archives-Multiple-11042025.zip"
+    },
+    "2025-04-18_nse_master_archive": {
+        "date": "2025-04-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\04\\Reports-Archives-Multiple-18042025.zip"
+    },
+    "2025-04-25_nse_master_archive": {
+        "date": "2025-04-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\04\\Reports-Archives-Multiple-25042025.zip"
+    },
+    "2025-05-02_nse_master_archive": {
+        "date": "2025-05-02",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\05\\Reports-Archives-Multiple-02052025.zip"
+    },
+    "2025-05-09_nse_master_archive": {
+        "date": "2025-05-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\05\\Reports-Archives-Multiple-09052025.zip"
+    },
+    "2025-05-16_nse_master_archive": {
+        "date": "2025-05-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\05\\Reports-Archives-Multiple-16052025.zip"
+    },
+    "2025-05-23_nse_master_archive": {
+        "date": "2025-05-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\05\\Reports-Archives-Multiple-23052025.zip"
+    },
+    "2025-05-30_nse_master_archive": {
+        "date": "2025-05-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\05\\Reports-Archives-Multiple-30052025.zip"
+    },
+    "2025-06-06_nse_master_archive": {
+        "date": "2025-06-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\06\\Reports-Archives-Multiple-06062025.zip"
+    },
+    "2025-06-13_nse_master_archive": {
+        "date": "2025-06-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\06\\Reports-Archives-Multiple-13062025.zip"
+    },
+    "2025-06-20_nse_master_archive": {
+        "date": "2025-06-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\06\\Reports-Archives-Multiple-20062025.zip"
+    },
+    "2025-06-27_nse_master_archive": {
+        "date": "2025-06-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\06\\Reports-Archives-Multiple-27062025.zip"
+    },
+    "2025-07-04_nse_master_archive": {
+        "date": "2025-07-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\07\\Reports-Archives-Multiple-04072025.zip"
+    },
+    "2025-07-11_nse_master_archive": {
+        "date": "2025-07-11",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\07\\Reports-Archives-Multiple-11072025.zip"
+    },
+    "2025-07-18_nse_master_archive": {
+        "date": "2025-07-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\07\\Reports-Archives-Multiple-18072025.zip"
+    },
+    "2025-07-25_nse_master_archive": {
+        "date": "2025-07-25",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\07\\Reports-Archives-Multiple-25072025.zip"
+    },
+    "2025-08-01_nse_master_archive": {
+        "date": "2025-08-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-01082025.zip"
+    },
+    "2025-08-08_nse_master_archive": {
+        "date": "2025-08-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-08082025.zip"
+    },
+    "2025-08-15_nse_master_archive": {
+        "date": "2025-08-15",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-15082025.zip"
+    },
+    "2025-08-22_nse_master_archive": {
+        "date": "2025-08-22",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-22082025.zip"
+    },
+    "2025-08-29_nse_master_archive": {
+        "date": "2025-08-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-29082025.zip"
+    },
+    "2025-09-05_nse_master_archive": {
+        "date": "2025-09-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\09\\Reports-Archives-Multiple-05092025.zip"
+    },
+    "2025-09-12_nse_master_archive": {
+        "date": "2025-09-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\09\\Reports-Archives-Multiple-12092025.zip"
+    },
+    "2025-09-19_nse_master_archive": {
+        "date": "2025-09-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\09\\Reports-Archives-Multiple-19092025.zip"
+    },
+    "2025-09-26_nse_master_archive": {
+        "date": "2025-09-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\09\\Reports-Archives-Multiple-26092025.zip"
+    },
+    "2025-10-03_nse_master_archive": {
+        "date": "2025-10-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\10\\Reports-Archives-Multiple-03102025.zip"
+    },
+    "2025-10-10_nse_master_archive": {
+        "date": "2025-10-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\10\\Reports-Archives-Multiple-10102025.zip"
+    },
+    "2025-10-17_nse_master_archive": {
+        "date": "2025-10-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\10\\Reports-Archives-Multiple-17102025.zip"
+    },
+    "2025-10-24_nse_master_archive": {
+        "date": "2025-10-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\10\\Reports-Archives-Multiple-24102025.zip"
+    },
+    "2025-10-31_nse_master_archive": {
+        "date": "2025-10-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\10\\Reports-Archives-Multiple-31102025.zip"
+    },
+    "2025-11-07_nse_master_archive": {
+        "date": "2025-11-07",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\11\\Reports-Archives-Multiple-07112025.zip"
+    },
+    "2025-11-14_nse_master_archive": {
+        "date": "2025-11-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\11\\Reports-Archives-Multiple-14112025.zip"
+    },
+    "2025-11-21_nse_master_archive": {
+        "date": "2025-11-21",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\11\\Reports-Archives-Multiple-21112025.zip"
+    },
+    "2025-11-28_nse_master_archive": {
+        "date": "2025-11-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\11\\Reports-Archives-Multiple-28112025.zip"
+    },
+    "2025-12-05_nse_master_archive": {
+        "date": "2025-12-05",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\12\\Reports-Archives-Multiple-05122025.zip"
+    },
+    "2025-12-12_nse_master_archive": {
+        "date": "2025-12-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\12\\Reports-Archives-Multiple-12122025.zip"
+    },
+    "2025-12-19_nse_master_archive": {
+        "date": "2025-12-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\12\\Reports-Archives-Multiple-19122025.zip"
+    },
+    "2025-12-26_nse_master_archive": {
+        "date": "2025-12-26",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\12\\Reports-Archives-Multiple-26122025.zip"
+    },
+    "2026-01-09_nse_master_archive": {
+        "date": "2026-01-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\01\\Reports-Archives-Multiple-09012026.zip"
+    },
+    "2026-01-16_nse_master_archive": {
+        "date": "2026-01-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\01\\Reports-Archives-Multiple-16012026.zip"
+    },
+    "2026-01-23_nse_master_archive": {
+        "date": "2026-01-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\01\\Reports-Archives-Multiple-23012026.zip"
+    },
+    "2026-01-30_nse_master_archive": {
+        "date": "2026-01-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\01\\Reports-Archives-Multiple-30012026.zip"
+    },
+    "2026-02-06_nse_master_archive": {
+        "date": "2026-02-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\02\\Reports-Archives-Multiple-06022026.zip"
+    },
+    "2026-02-13_nse_master_archive": {
+        "date": "2026-02-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\02\\Reports-Archives-Multiple-13022026.zip"
+    },
+    "2026-02-20_nse_master_archive": {
+        "date": "2026-02-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\02\\Reports-Archives-Multiple-20022026.zip"
+    },
+    "2026-02-27_nse_master_archive": {
+        "date": "2026-02-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\02\\Reports-Archives-Multiple-27022026.zip"
+    },
+    "2026-03-06_nse_master_archive": {
+        "date": "2026-03-06",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\03\\Reports-Archives-Multiple-06032026.zip"
+    },
+    "2026-03-13_nse_master_archive": {
+        "date": "2026-03-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\03\\Reports-Archives-Multiple-13032026.zip"
+    },
+    "2026-03-20_nse_master_archive": {
+        "date": "2026-03-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\03\\Reports-Archives-Multiple-20032026.zip"
+    },
+    "2026-03-27_nse_master_archive": {
+        "date": "2026-03-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\03\\Reports-Archives-Multiple-27032026.zip"
+    },
+    "2026-04-03_nse_master_archive": {
+        "date": "2026-04-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\04\\Reports-Archives-Multiple-03042026.zip"
+    },
+    "2026-04-10_nse_master_archive": {
+        "date": "2026-04-10",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\04\\Reports-Archives-Multiple-10042026.zip"
+    },
+    "2020-03-31_nse_master_archive": {
+        "date": "2020-03-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\03\\Reports-Archives-Multiple-31032020.zip"
+    },
+    "2020-04-01_nse_master_archive": {
+        "date": "2020-04-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-01042020.zip"
+    },
+    "2021-03-31_nse_master_archive": {
+        "date": "2021-03-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\03\\Reports-Archives-Multiple-31032021.zip"
+    },
+    "2021-04-01_nse_master_archive": {
+        "date": "2021-04-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-01042021.zip"
+    },
+    "2022-03-01_nse_master_archive": {
+        "date": "2022-03-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\Reports-Archives-Multiple-01032022.zip"
+    },
+    "2023-04-01_nse_master_archive": {
+        "date": "2023-04-01",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2024-03-31_nse_master_archive": {
+        "date": "2024-03-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\03\\Reports-Archives-Multiple-31032024.zip"
+    },
+    "2024-04-01_nse_master_archive": {
+        "date": "2024-04-01",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-03-31_nse_master_archive": {
+        "date": "2025-03-31",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-04-01_nse_master_archive": {
+        "date": "2025-04-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\04\\Reports-Archives-Multiple-01042025.zip"
+    },
+    "2026-03-31_nse_master_archive": {
+        "date": "2026-03-31",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\03\\Reports-Archives-Multiple-31032026.zip"
+    },
+    "2026-04-01_nse_master_archive": {
+        "date": "2026-04-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2026\\04\\Reports-Archives-Multiple-01042026.zip"
+    },
+    "2025-03-13_nse_master_archive": {
+        "date": "2025-03-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\03\\Reports-Archives-Multiple-13032025.zip"
+    },
+    "2025-03-12_nse_master_archive": {
+        "date": "2025-03-12",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\03\\Reports-Archives-Multiple-12032025.zip"
+    },
+    "2025-04-17_nse_master_archive": {
+        "date": "2025-04-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\04\\Reports-Archives-Multiple-17042025.zip"
+    },
+    "2025-04-16_nse_master_archive": {
+        "date": "2025-04-16",
+        "report_id": "nse_master_archive",
+        "status": "FAILED",
+        "path": ""
+    },
+    "2025-08-14_nse_master_archive": {
+        "date": "2025-08-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-14082025.zip"
+    },
+    "2025-08-13_nse_master_archive": {
+        "date": "2025-08-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2025\\08\\Reports-Archives-Multiple-13082025.zip"
+    },
+    "2024-11-14_nse_master_archive": {
+        "date": "2024-11-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-14112024.zip"
+    },
+    "2024-11-13_nse_master_archive": {
+        "date": "2024-11-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2024\\11\\Reports-Archives-Multiple-13112024.zip"
+    },
+    "2022-02-28_nse_master_archive": {
+        "date": "2022-02-28",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\02\\Reports-Archives-Multiple-28022022.zip"
+    },
+    "2022-02-27_nse_master_archive": {
+        "date": "2022-02-27",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\02\\Reports-Archives-Multiple-27022022.zip"
+    },
+    "2022-03-17_nse_master_archive": {
+        "date": "2022-03-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\03\\Reports-Archives-Multiple-17032022.zip"
+    },
+    "2023-03-16_nse_master_archive": {
+        "date": "2023-03-16",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2023\\03\\Reports-Archives-Multiple-16032023.zip"
+    },
+    "2022-04-14_nse_master_archive": {
+        "date": "2022-04-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-14042022.zip"
+    },
+    "2022-04-13_nse_master_archive": {
+        "date": "2022-04-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2022\\04\\Reports-Archives-Multiple-13042022.zip"
+    },
+    "2021-04-03_nse_master_archive": {
+        "date": "2021-04-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\04\\Reports-Archives-Multiple-03042021.zip"
+    },
+    "2021-09-09_nse_master_archive": {
+        "date": "2021-09-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\09\\Reports-Archives-Multiple-09092021.zip"
+    },
+    "2021-09-08_nse_master_archive": {
+        "date": "2021-09-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\09\\Reports-Archives-Multiple-08092021.zip"
+    },
+    "2021-10-14_nse_master_archive": {
+        "date": "2021-10-14",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-14102021.zip"
+    },
+    "2021-10-13_nse_master_archive": {
+        "date": "2021-10-13",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\10\\Reports-Archives-Multiple-13102021.zip"
+    },
+    "2021-11-04_nse_master_archive": {
+        "date": "2021-11-04",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-04112021.zip"
+    },
+    "2021-11-03_nse_master_archive": {
+        "date": "2021-11-03",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-03112021.zip"
+    },
+    "2021-11-18_nse_master_archive": {
+        "date": "2021-11-18",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-18112021.zip"
+    },
+    "2021-11-17_nse_master_archive": {
+        "date": "2021-11-17",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2021\\11\\Reports-Archives-Multiple-17112021.zip"
+    },
+    "2020-02-20_nse_master_archive": {
+        "date": "2020-02-20",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\02\\Reports-Archives-Multiple-20022020.zip"
+    },
+    "2020-02-19_nse_master_archive": {
+        "date": "2020-02-19",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\02\\Reports-Archives-Multiple-19022020.zip"
+    },
+    "2020-04-09_nse_master_archive": {
+        "date": "2020-04-09",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-09042020.zip"
+    },
+    "2020-04-08_nse_master_archive": {
+        "date": "2020-04-08",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-08042020.zip"
+    },
+    "2020-04-30_nse_master_archive": {
+        "date": "2020-04-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-30042020.zip"
+    },
+    "2020-04-29_nse_master_archive": {
+        "date": "2020-04-29",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\04\\Reports-Archives-Multiple-29042020.zip"
+    },
+    "2020-10-01_nse_master_archive": {
+        "date": "2020-10-01",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\10\\Reports-Archives-Multiple-01102020.zip"
+    },
+    "2020-09-30_nse_master_archive": {
+        "date": "2020-09-30",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\09\\Reports-Archives-Multiple-30092020.zip"
+    },
+    "2020-12-24_nse_master_archive": {
+        "date": "2020-12-24",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\12\\Reports-Archives-Multiple-24122020.zip"
+    },
+    "2020-12-23_nse_master_archive": {
+        "date": "2020-12-23",
+        "report_id": "nse_master_archive",
+        "status": "SUCCESS",
+        "path": "F:\\projects\\bhavcopypro\\NSE\\2020\\12\\Reports-Archives-Multiple-23122020.zip"
     }
 }

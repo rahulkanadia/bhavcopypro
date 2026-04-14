@@ -3,32 +3,45 @@ from datetime import date
 # The SEBI Mandate Transition Date
 UDIFF_CUTOFF_DATE = date(2024, 7, 8)
 
+# Update this with your exact PostgreSQL credentials
+DB_URI = "postgresql://postgres:postgres@localhost:5432/nse_archive"
+
 CONVERSATIONAL_MAP = {
-    "corpbond": "Corporate_Bonds",
-    "C_VAR1": "VaR_Margin_Parameters",
-    "shortselling": "Short_Selling",
-    "MTO": "Delivery_Positions",
-    "CMVOLT": "Daily_Volatility",
-    "APPSEC_COLLVAL": "Approved_Securities_Haircut",
-    "MF_VAR": "Mutual_Funds_Haircut",
-    "sec_bhavdata_full": "Full_Bhavcopy_Delivery",
-    "CM_52_wk_High_low": "52W_High_Low",
-    "PE": "PE_Ratio",
-    "sme": "SME_Bhavcopy",
-    "MA": "Market_Activity",
-    "INDEXSummary": "Index_Summary",
-    "DEBTBHAVCOPY": "Debt_Bhavcopy",
-    "SQ": "SLB_Bhavcopy",
-    "cm": "CM_Bhavcopy",
-    "fo": "FO_Bhavcopy",
-    "PR": "Price_Report_Archive",
-    "EQ": "BSE_Equity_Bhavcopy",
-    "BhavCopy_NSE_CM": "CM_UDiFF_Bhavcopy",
-    "BhavCopy_NSE_FO": "FO_UDiFF_Bhavcopy",
-    "BhavCopy_BSE_CM": "BSE_CM_UDiFF_Bhavcopy",
-    "BhavCopy_BSE_FO": "BSE_FO_UDiFF_Bhavcopy",
-    "BhavCopy_BSE_CD": "BSE_Currency_UDiFF",
-    "BhavCopy_BSE_CO": "BSE_Commodity_UDiFF",
+    "corpbond": "corporate_bonds",
+    "C_VAR1": "var_margin_parameters",
+    "shortselling": "short_selling",
+    "MTO": "delivery_positions",
+    "CMVOLT": "daily_volatility",
+    "APPSEC_COLLVAL": "approved_securities_haircut",
+    "MF_VAR": "mutual_funds_haircut",
+    "sec_bhavdata_full": "sec_bhavdata_full",
+    "CM_52_wk_High_low": "52w_high_low",
+    "PE": "pe_ratio",
+    "sme": "sme_bhavcopy",
+    "MA": "market_activity",
+    "cm": "cm_bhavcopy",
+    "fo": "fo_bhavcopy",
+    "BhavCopy_NSE_CM": "cm_udiff_bhavcopy",
+    "BhavCopy_NSE_FO": "fo_udiff_bhavcopy",
+    # Legacy PR Archive internal mappings
+    "bc": "corporate_actions",
+    "hl": "52w_high_low",
+    "tt": "top_25_traded"
+}
+
+# Table definitions for ON CONFLICT DO UPDATE
+TABLE_KEYS = {
+    "sec_bhavdata_full": ["trade_date", "symbol", "series"],
+    "cm_bhavcopy": ["trade_date", "symbol", "series"],
+    "pe_ratio": ["trade_date", "symbol"],
+    "daily_volatility": ["trade_date", "symbol"],
+    "corporate_bonds": ["trade_date", "symbol", "series"],
+    "sme_bhavcopy": ["trade_date", "symbol", "series"],
+    "52w_high_low": ["trade_date", "symbol", "series"],
+    "delivery_positions": ["trade_date", "record_type", "security_code"],
+    "corporate_actions": ["trade_date", "symbol"],
+    "top_25_traded": ["trade_date", "security"],
+    "cm_udiff_bhavcopy": ["trade_date", "tckrsymb", "sctysrs"]
 }
 
 REPORT_TREE = {
@@ -51,18 +64,6 @@ REPORT_TREE = {
         "Derivatives": [
             {"id": "nse_fo_bhav", "name": "F&O Bhavcopy"},
         ]
-    },
-    "BSE": {
-        "Capital Market": [
-            {"id": "bse_cm_bhav", "name": "BSE Equity Bhavcopy"},
-            {"id": "bse_cm_slb", "name": "SLB Bhavcopy"},
-            {"id": "bse_cm_index", "name": "Index Summary"},
-        ],
-        "Derivatives": [
-            {"id": "bse_fo_bhav", "name": "BSE Equity Derivatives"},
-        ],
-        "Debt": [
-            {"id": "bse_debt_bhav", "name": "Debt Bhavcopy"},
-        ]
     }
+    # BSE Block Compartmentalized For Phase 1
 }
